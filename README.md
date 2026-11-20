@@ -7,17 +7,17 @@ Wikian 是一款桌面版 Obsidian 插件。它连接本机的 Codex CLI 或 Cla
 ## 功能
 
 
-- **查询&创作**：在侧栏提问或创作。首次启用后即可查询，无需登录 Wikian。输入 `@` 可以引用库内笔记。
+- **查询&创作**：在侧栏提问或创作。首次启用后即可查询、创作和切换聊天权限，无需登录 Wikian。回答的引用默认折叠在「知识库依据」。输入 `@` 可以引用库内笔记。
 - **整理**：查看待整理资料，确认后再开始分批处理。
 - **定稿和维护**：在侧栏处理定稿并维护知识库。
 
 
-## 下载 0.3.5
+## 下载 0.3.6
 
 
-- [GitHub Release v0.3.5](https://github.com/hypderrick/wikian/releases/tag/v0.3.5)
-- [下载安装包](https://github.com/hypderrick/wikian/releases/download/v0.3.5/Wikian-0.3.5.zip)
-- [SHA-256 校验文件](https://github.com/hypderrick/wikian/releases/download/v0.3.5/SHA256SUMS.txt)
+- [GitHub Release v0.3.6](https://github.com/hypderrick/wikian/releases/tag/v0.3.6)
+- [下载安装包](https://github.com/hypderrick/wikian/releases/download/v0.3.6/Wikian-0.3.6.zip)
+- [SHA-256 校验文件](https://github.com/hypderrick/wikian/releases/download/v0.3.6/SHA256SUMS.txt)
 
 
 ## 安装
@@ -30,6 +30,10 @@ Wikian 是一款桌面版 Obsidian 插件。它连接本机的 Codex CLI 或 Cla
 2. 重新打开 Obsidian，在「设置 → 第三方插件」启用 Wikian。首次启用时按提示创建标准目录，打开 Wikian 侧栏即可查询。
 3. 要使用整理、定稿和维护，先从侧栏打开「库体检」并完成接入。待整理任务会出现在「整理」页，点击「开始整理」后才调用模型处理。
 
+
+## 升级
+
+关闭 Obsidian 后，用新版安装包覆盖 `wikian` 目录内的 `main.js`、`manifest.json` 和 `styles.css`，保留原有设置与历史对话。
 
 ## 版权与使用
 
