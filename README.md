@@ -12,12 +12,12 @@ Wikian 是一款桌面版 Obsidian 插件。它连接本机的 Codex CLI 或 Cla
 - **定稿和维护**：在侧栏处理定稿并维护知识库。
 
 
-## 下载 0.3.6
+## 下载 0.3.7
 
 
-- [GitHub Release v0.3.6](https://github.com/hypderrick/wikian/releases/tag/v0.3.6)
-- [下载安装包](https://github.com/hypderrick/wikian/releases/download/v0.3.6/Wikian-0.3.6.zip)
-- [SHA-256 校验文件](https://github.com/hypderrick/wikian/releases/download/v0.3.6/SHA256SUMS.txt)
+- [GitHub Release v0.3.7](https://github.com/hypderrick/wikian/releases/tag/v0.3.7)
+- [下载安装包](https://github.com/hypderrick/wikian/releases/download/v0.3.7/Wikian-0.3.7.zip)
+- [SHA-256 校验文件](https://github.com/hypderrick/wikian/releases/download/v0.3.7/SHA256SUMS.txt)
 
 
 ## 安装
