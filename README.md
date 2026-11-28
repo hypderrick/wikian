@@ -12,13 +12,9 @@ Wikian 是一款桌面版 Obsidian 插件。它连接本机的 Codex CLI 或 Cla
 - **定稿和维护**：在侧栏处理定稿并维护知识库。
 
 
-## 下载 0.3.7
+## 下载首个稳定版 0.3.29
 
-
-- [GitHub Release v0.3.7](https://github.com/hypderrick/wikian/releases/tag/v0.3.7)
-- [下载安装包](https://github.com/hypderrick/wikian/releases/download/v0.3.7/Wikian-0.3.7.zip)
-- [SHA-256 校验文件](https://github.com/hypderrick/wikian/releases/download/v0.3.7/SHA256SUMS.txt)
-
+[下载安装包](https://github.com/hypderrick/wikian/releases/download/v0.3.29/Wikian-0.3.29.zip) · [SHA-256 校验文件](https://github.com/hypderrick/wikian/releases/download/v0.3.29/SHA256SUMS.txt)
 
 ## 安装
 
@@ -28,7 +24,7 @@ Wikian 是一款桌面版 Obsidian 插件。它连接本机的 Codex CLI 或 Cla
 
 1. **首次安装**：关闭 Obsidian，解压 ZIP，把整个 `wikian` 文件夹放到知识库的 `.obsidian/plugins/` 目录。
 2. 重新打开 Obsidian，在「设置 → 第三方插件」启用 Wikian。首次启用时按提示创建标准目录，打开 Wikian 侧栏即可查询。
-3. 要使用整理、定稿和维护，先从侧栏打开「库体检」并完成接入。待整理任务会出现在「整理」页，点击「开始整理」后才调用模型处理。
+3. 要使用整理、定稿和维护，首次打开相应功能时按提示输入手机号。验证通过后，插件会从线上下载并校验管理核心。按引导完成库体检和接入。待整理任务会出现在「整理」页，点击「开始整理」后才调用模型处理。
 
 
 ## 升级
